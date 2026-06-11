@@ -2,7 +2,7 @@ Hand Gesture Monitoring System (Python + OpenCV)
 
 Description:
 -------------
-A real-time hand gesture recognition system that detects finger positions via webcam and maps specific gestures to pre-defined actions like opening YouTube or pausing a movie.
+Real-Time Hand Gesture Control System: Webcam-based finger tracking maps specific gestures to desktop commands like media playback and cursor navigation. 
 
 Features:
 - Used Open CV
